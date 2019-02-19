@@ -47,8 +47,8 @@ The friend I mentioned earlier had taught himself, convinced me it was entirely 
 frustrated and felt like it would never click for me, I stuck it out.  I was sure he was/is a secret genius and that I'd
 never be able to do it, but you don't have to be a genius, I promise.
 
-He gave me one fantastic piece of advice that you should, without a doubt, 100% take and thank me you did.  # Learn
-JavaScript #.  Not just a little.  Learn the living heck out of it.
+He gave me one fantastic piece of advice that you should, without a doubt, 100% take and thank me you did.  __Learn
+JavaScript__.  Not just a little.  Learn the living heck out of it.
 
 JavaScript started its life as the programming language of the web, but it has grown so far beyond that it's not funny.
 I write servers and intense data processing back ends, micro services, the whole nine yards in JavaScript.  If you learn
@@ -102,12 +102,14 @@ don't think twice.  They have many learning tracks.  I did some of the CSS/HTML 
 do a fantastic job and their material is well presented and well thought out.  If they don't have the most up to the
 minute courses it's because they put a ton of effort into making what they do have as high of quality as possible.
 
-## Important point Learn the evergreen principles.  Frontend development moves fast.  You're always going to hear about
-some new hot library (don't worry, it took me 6+ months to know what the heck a library was).  You will never be able to
-keep up and stay on the bleeding edge, so learn the principles that don't change.  Writing good, maintainable, readable
-code is a lifelong pursuit (as long as computers don't program themselves), so really focus hard on that.  If you get
-that stuff down, picking up a new library when you have to won't be that bad.  This doesn't mean you can bury your head
-in the sand and not pay any attention (when the time comes), but you don't have to feel frantic.
+## Important point Learn the evergreen principles.
+
+Frontend development moves fast.  You're always going to hear about some new hot library (don't worry, it took me 6+
+months to know what the heck a library was).  You will never be able to keep up and stay on the bleeding edge, so learn
+the principles that don't change.  Writing good, maintainable, readable code is a lifelong pursuit (as long as computers
+don't program themselves), so really focus hard on that.  If you get that stuff down, picking up a new library when you
+have to won't be that bad.  This doesn't mean you can bury your head in the sand and not pay any attention (when the
+time comes), but you don't have to feel frantic.
 
 [Frontend Masters](https://frontendmasters.com)
 
@@ -176,8 +178,8 @@ listening to those podcasts you hear how professionals talk about code, and that
 I also read a blog about impostor syndrome.  Everyone in this field thinks the person sitting next to them is light
 years more qualified.  I see it in everyone around me, myself included.  I got clued into this early on though, and
 decided I wasn't going to let that dictate my trajectory.  I have already seen how negatively it impacts people I work
-with.  I'm further in my career in a short time than some really bright people 've met just because I've decided I'm 
-not going to fall into that trap.
+with.  I'm further in my career in a short time than some really bright people
+I've met just because I've decided I'm not going to fall into that trap.
 Hear this:
 
 It is not your job to decide you are or are not qualified for a role.  It's the job of the team hiring you.  You're job
